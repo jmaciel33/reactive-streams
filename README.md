@@ -9,7 +9,7 @@ $ mvn clean install
 
 ## Technologies
 
-Java 8  
+Java 10  
 Lombok  
 Maven 
 
