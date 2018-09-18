@@ -10,7 +10,7 @@ $ mvn clean install
 ## Technologies
 
 Java 8  
-Lombok 
+Lombok  
 Maven 
 
 ## Reference:
